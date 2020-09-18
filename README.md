@@ -25,3 +25,11 @@ The team designed wireframes using adobe-xd to help users envision their workflo
 
 ## What's next for She-Help
 The team would love to build out the functionality of a facial recognition software to further improve the security of the platform, and research more about how to provide relevant development materials to the young female entrepreneurs. Our team would especially love to work further upon this project and develop end-to-end applications for the agencies and the aspiring entrepreneurs to increase it's usability and handiness.
+
+## Relevant Links
+
+Link to Google Doc File:- https://docs.google.com/document/d/1n3Nq-Wu3kUq-Dc79Zznysa8zSv6XE-xd53ZbZkvicgo/edit?usp=sharing
+Link to Google Drive Folder which contains the UI Screens(.png) and Powerpoint Presentation(.ppt & .pdf) for this ptoject's proposal :- https://drive.google.com/folderview?id=1-vbhfTELIoVCEEY2VDk0ETRX8-EdGEZ9
+
+
+This document was made to brief about a project called “She Help”, in a hackathon called “Hack4Women” organized by GirlScript Summit 2020, powered by IncubateIND on the Problem Statement titled “Open Innovation”. The team consisted of three members which was called “Cool Team Name”.  
