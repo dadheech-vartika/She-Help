@@ -3,7 +3,7 @@ She-Help enables female youth to receive financing for their business ideas base
 
 
 ## Inspiration
-The 21st century has largely been characterized by an innovation race, but the reality is that it might not be possible to launch a small business without qualifying for financing. LendHer seeks to financially educate and lend to female youth entrepreneurs, empowering them to realize their dreams
+The 21st century has been largely characterized by an innovation race, but the reality is that it might not be possible to launch a small business without qualifying for financing. She-Help seeks to financially support and  educate female youth entrepreneurs, empowering them to realize their dreams.
 
 
 ## What it does
@@ -11,7 +11,7 @@ She-Help enables female youth to receive financing for their business ideas base
 
 
 ## How we built it
-The team designed wireframes using adobe-xd to help users envision their workflow and experience. The blockchain transaction proof-of-concept was built using an html/css front-end and node js server that communicates with the Stellar Blockchain. The chatbot is powered by Twilio.
+The team designed wireframes using adobe-xd to help users envision their workflow and experience. The blockchain transaction proof-of-concept was built by using an html/css front-end and node js server that communicates with the Stellar Blockchain. The chatbot is powered by Twilio.
 
 
 ## Technologies Used
@@ -24,4 +24,4 @@ The team designed wireframes using adobe-xd to help users envision their workflo
 7. Blockchain
 
 ## What's next for She-Help
-The team would love to build out the functionality of a facial recognition software to further improve the security of our platform, and research more about how to provide relevant development materials for young entrepreneurs.
+The team would love to build out the functionality of a facial recognition software to further improve the security of the platform, and research more about how to provide relevant development materials to the young female entrepreneurs.
