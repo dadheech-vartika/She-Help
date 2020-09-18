@@ -29,7 +29,8 @@ The team would love to build out the functionality of a facial recognition softw
 ## Relevant Links
 
 Link to Google Doc File:- https://docs.google.com/document/d/1n3Nq-Wu3kUq-Dc79Zznysa8zSv6XE-xd53ZbZkvicgo/edit?usp=sharing
-Link to Google Drive Folder which contains the UI Screens(.png) and Powerpoint Presentation(.ppt & .pdf) for this ptoject's proposal :- https://drive.google.com/folderview?id=1-vbhfTELIoVCEEY2VDk0ETRX8-EdGEZ9
+
+Link to Google Drive Folder which contains the UI Screens(.png) and Powerpoint Presentation(.ppt & .pdf) for this project's proposal :- https://drive.google.com/folderview?id=1-vbhfTELIoVCEEY2VDk0ETRX8-EdGEZ9
 
 
 This document was made to brief about a project called “She Help”, in a hackathon called “Hack4Women” organized by GirlScript Summit 2020, powered by IncubateIND on the Problem Statement titled “Open Innovation”. The team consisted of three members which was called “Cool Team Name”.  
