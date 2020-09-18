@@ -21,6 +21,7 @@ The team designed wireframes using adobe-xd to help users envision their workflo
 4. Javascript
 5. Photoshop
 6. Twilio
+7. Blockchain
 
 ## What's next for She-Help
 The team would love to build out the functionality of a facial recognition software to further improve the security of our platform, and research more about how to provide relevant development materials for young entrepreneurs.
