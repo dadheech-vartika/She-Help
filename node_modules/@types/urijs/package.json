@@ -1,0 +1,73 @@
+{
+  "_from": "@types/urijs@^1.19.2",
+  "_id": "@types/urijs@1.19.5",
+  "_inBundle": false,
+  "_integrity": "sha512-LAyzQkr9rZDoHrv8xRcHStLo8Z4PbP3ZHMqw8WRr1T7Jn4O1z13Qkv+ed9e12pBXWaaqsBj1l4ADU/FlA/jn3w==",
+  "_location": "/@types/urijs",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@types/urijs@^1.19.2",
+    "name": "@types/urijs",
+    "escapedName": "@types%2furijs",
+    "scope": "@types",
+    "rawSpec": "^1.19.2",
+    "saveSpec": null,
+    "fetchSpec": "^1.19.2"
+  },
+  "_requiredBy": [
+    "/stellar-sdk"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/urijs/-/urijs-1.19.5.tgz",
+  "_shasum": "f2083392f5859be59cbba0b1d463b922c8aef842",
+  "_spec": "@types/urijs@^1.19.2",
+  "_where": "/Users/aboyed/Desktop/dev/projects/microlend/server/node_modules/stellar-sdk",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "RodneyJT",
+      "url": "https://github.com/RodneyJT"
+    },
+    {
+      "name": "Brian Surowiec",
+      "url": "https://github.com/xt0rted"
+    },
+    {
+      "name": "Pete Johanson",
+      "url": "https://github.com/petejohanson"
+    },
+    {
+      "name": "Zhibin Liu",
+      "url": "https://github.com/ljqx"
+    },
+    {
+      "name": "TeamworkGuy2",
+      "url": "https://github.com/teamworkguy2"
+    },
+    {
+      "name": "Akuukis",
+      "url": "https://github.com/Akuukis"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for URI.js",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/urijs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/urijs"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.0",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "6bc1d5732f37984118eb391445324145d896d9338815a2e3c583be8857e718a0",
+  "version": "1.19.5"
+}

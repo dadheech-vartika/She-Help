@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <title>LendHer</title>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script>
+      $(document).ready(function() {
+        var user, pass, amount;
+        $("#submit").click(function() {
+          $(this).css("hidden: true");
+          user = $("#user").val();
+          pass = $("#password").val();
+          amount = $("#amount").val();
+
+          $.post(
+            "http://localhost:3000/submit",
+            { user: user, password: pass, amount: amount },
+            function(data) {
+              console.log(data);
+              window.location.replace(data);
+            }
+          );
+        });
+      });
+    </script>
+  </head>
+  <body>
+    <form>
+      <ul>
+        <h1>Financing Request</h1>
+        <li>
+          <label for="name">Username:</label>
+          <input type="TEXT" id="user" size="40" /><br />
+        </li>
+        <li>
+          <label for="password">Password:</label>
+          <input type="password" id="password" size="40" /><br />
+        </li>
+
+        <li>
+          <label for="amount">Amount ($):</label>
+          <input type="amount" id="amount" size="40" /><br />
+        </li>
+
+        <li>
+          <label for="name">Project Title:</label>
+          <select name="Project List">
+            <option value="tutoring">123 Tutoring</option>
+            <option value="jewelry">Jewels Gems</option>
+            <option value="lemonade">Minionade</option>
+          </select>
+        </li>
+
+        <li class="file">
+          <file type="submit">Upload Headshot:</file>
+        </li>
+        <li>
+          <input type="file" name="pic" id="pic" accept="image/*" />
+        </li>
+        <li>
+          <input type="button" id="submit" value="Submit" />
+        </li>
+      </ul>
+    </form>
+  </body>
+</html>
+
+<style>
+  h1 {
+    text-align: center;
+  }
+  form {
+    /* Center the form on the page */
+    margin: 0 auto;
+    width: 400px;
+    /* Form outline */
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 1em;
+    body-color: #008800;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  form li + li {
+    margin-top: 1em;
+  }
+
+  label {
+    /* Uniform size & alignment */
+    display: inline-block;
+    width: 90px;
+    text-align: right;
+  }
+  #pic {
+    text-align: center;
+    margin: auto;
+  }
+
+  input,
+  textarea {
+    /* To make sure that all text fields have the same font settings
+          By default, textareas have a monospace font */
+    font: 1em sans-serif;
+
+    /* Uniform text field size */
+    width: 300px;
+    box-sizing: border-box;
+
+    /* Match form field borders */
+    border: 1px solid #999;
+  }
+
+  input:focus,
+  textarea:focus {
+    /* Additional highlight for focused elements */
+    border-color: #000;
+  }
+
+  textarea {
+    /* Align multiline text fields with their labels */
+    vertical-align: top;
+
+    /* Provide space to type some text */
+    height: 5em;
+  }
+
+  /* button {
+    /* Align buttons with the text fields */
+  padding-left: 150px; /* same size as the label elements */
+  /* } */
+
+  button {
+    display: block;
+    max-width: 300px;
+    margin: auto;
+  }
+  /* button {
+    /* This extra margin represent roughly the same space as the space
+          between the labels and their text fields */
+  text-align: center;
+  margin: 0 auto;
+  /* } */
+</style>
