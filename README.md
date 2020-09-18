@@ -24,4 +24,4 @@ The team designed wireframes using adobe-xd to help users envision their workflo
 7. Blockchain
 
 ## What's next for She-Help
-The team would love to build out the functionality of a facial recognition software to further improve the security of the platform, and research more about how to provide relevant development materials to the young female entrepreneurs.
+The team would love to build out the functionality of a facial recognition software to further improve the security of the platform, and research more about how to provide relevant development materials to the young female entrepreneurs. Our team would especially love to work further upon this project and develop end-to-end applications for the agencies and the aspiring entrepreneurs to increase it's usability and handiness.
