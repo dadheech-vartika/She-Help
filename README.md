@@ -16,7 +16,7 @@ The team designed wireframes using adobe-xd to help users envision their workflo
 ## UI Screens
 
 <p align="center">
-  <img src="https://github.com/dadheech-vartika/She-Help/blob/read/Images/1.png">
+  <img src="https://github.com/dadheech-vartika/She-Help/blob/master/Images/1.png">
 </p>
 
 
