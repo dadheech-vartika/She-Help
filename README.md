@@ -17,8 +17,11 @@ The team designed wireframes using adobe-xd to help users envision their workflo
 
 <p align="center">
   <img src="https://github.com/dadheech-vartika/She-Help/blob/master/Images/1.png">
-</p>
-
+  <img src = "https://github.com/dadheech-vartika/She-Help/blob/master/Images/2.png">
+  <img src = "https://github.com/dadheech-vartika/She-Help/blob/master/Images/3.png">
+  <img src = "https://github.com/dadheech-vartika/She-Help/blob/master/Images/4.png">
+  <img src = "https://github.com/dadheech-vartika/She-Help/blob/master/Images/5.png">
+ </p>
 
 ## Technologies Used
 1. Adobe-xd
