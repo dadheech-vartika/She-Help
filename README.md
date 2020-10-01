@@ -14,8 +14,9 @@ She-Help enables female youth to receive financing for their business ideas base
 The team designed wireframes using adobe-xd to help users envision their workflow and experience. The blockchain transaction proof-of-concept was built by using an html/css front-end and node js server that communicates with the Stellar Blockchain. The chatbot is powered by Twilio.
 
 ## UI Screens
+
 <p align="center">
-  <img src="https://github.com/dadheech-vartika/Sha-Help/Images/1.png " width="350" title="UI screen 1">
+  <img src="https://github.com/dadheech-vartika/She-Help/blob/read/Images/1.png">
 </p>
 
 
