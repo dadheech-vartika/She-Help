@@ -37,6 +37,8 @@ The team would love to build out the functionality of a facial recognition softw
 
 ## Relevant Links
 
+Link to YouTube presentation/pitching video:- https://youtu.be/Ix2uMIbEPWI
+
 Link to Google Doc File:- https://docs.google.com/document/d/1n3Nq-Wu3kUq-Dc79Zznysa8zSv6XE-xd53ZbZkvicgo/edit?usp=sharing
 
 Link to Google Drive Folder which contains the UI Screens(.png) and Powerpoint Presentation(.ppt & .pdf) for this project's proposal :- https://drive.google.com/folderview?id=1-vbhfTELIoVCEEY2VDk0ETRX8-EdGEZ9
